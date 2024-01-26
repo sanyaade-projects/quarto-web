@@ -1,0 +1,17 @@
+::: {.content-visible when-profile="rc"}
+::: {.callout-note}
+## Quarto 1.5 Feature
+
+This feature is new in Quarto 1.5. Download the latest version of Quarto at <https://quarto.org/docs/download/>.
+:::
+:::
+
+
+::: {.content-visible unless-profile="rc"}
+::: {.callout-note}
+## Pre-release Feature
+
+This feature is new in the upcoming Quarto 1.5 release. To use the feature now, you'll need to [download](https://quarto.org/docs/download/prerelease) and install the Quarto pre-release.
+:::
+:::
+
